@@ -4,5 +4,5 @@
 
 ## Linux
 
-* [Linux-code](linux/linux-code.md)
-* [pi-hole one click install](linux/pi-hole-one-click-install.md)
+* [Linux-code](linux/linux-code/README.md)
+  * [pi-hole one click install](linux/linux-code/pi-hole-one-click-install.md)
