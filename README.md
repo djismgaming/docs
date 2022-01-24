@@ -11,8 +11,6 @@ Let's start this!
 
 This makes it so that I can clone this docs repository to have all snippets of code inside a VM.
 
-I use unRAID and noVNC does not have a working copy/paste implementation to the VM manager inside unRAID.&#x20;
-
 With this I can go into the VM and, with&#x20;
 
 `$ git clone https://github.com/djismgaming/docs`&#x20;
