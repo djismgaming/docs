@@ -5,7 +5,7 @@ description: >-
   related)
 ---
 
-# Docs and code
+# docs and code
 
 Let's start this!
 
@@ -15,4 +15,4 @@ With this I can go into the VM and, with&#x20;
 
 `$ git clone https://github.com/djismgaming/docs`&#x20;
 
-get all scripts/code snippets needed for setting up any of these apps/services.
+get all scripts/code snippets needed for setting up any of these apps/services/configurations.
