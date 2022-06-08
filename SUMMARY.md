@@ -6,4 +6,4 @@
   * [stop gdm3 in ubuntu desktop install](docs-and-code/stop-gdm3-in-ubuntu-desktop-install.md)
   * [ubuntu kernel upgrade](docs-and-code/ubuntu-kernel-upgrade.md)
   * [add directory to PATH environment variable](docs-and-code/add-directory-to-path-environment-variable.md)
-  * [linux mitigation disable (debian)](docs-and-code/linux-mitigation-disable-debian.md)
+  * [linux mitigation disable (security considerations - debian)](docs-and-code/linux-mitigation-disable-security-considerations-debian.md)
