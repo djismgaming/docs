@@ -7,3 +7,4 @@
   * [ubuntu kernel upgrade](docs-and-code/ubuntu-kernel-upgrade.md)
   * [add directory to PATH environment variable](docs-and-code/add-directory-to-path-environment-variable.md)
   * [linux mitigation disable (security considerations - debian)](docs-and-code/linux-mitigation-disable-security-considerations-debian.md)
+  * [specifying a static container IP on the same subnet of an UNRAID host](docs-and-code/specifying-a-static-container-ip-on-the-same-subnet-of-an-unraid-host.md)
