@@ -8,4 +8,4 @@
   * [add directory to PATH environment variable](docs-and-code/add-directory-to-path-environment-variable.md)
   * [linux mitigation disable (security considerations - debian)](docs-and-code/linux-mitigation-disable-security-considerations-debian.md)
   * [specifying a static container IP on the same subnet of an UNRAID host](docs-and-code/specifying-a-static-container-ip-on-the-same-subnet-of-an-unraid-host.md)
-  * [youtube-dl command to continue recording in the same file](docs-and-code/youtube-dl-command-to-continue-recording-in-the-same-file.md)
+  * [yt-dlp command to record in a different file each time](docs-and-code/yt-dlp-command-to-record-in-a-different-file-each-time.md)
