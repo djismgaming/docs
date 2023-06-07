@@ -2,6 +2,8 @@
 
 
 
-```sh
-youtube-dl.exe -c -q --no-part --hls-use-mpegts https://link.m3u8 
+````sh
+```powershell
+youtube-dl.exe -o "%(epoch)s.%(ext)s" --no-part --hls-use-mpegts https://link.m3u8
 ```
+````
