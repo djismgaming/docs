@@ -9,3 +9,4 @@
   * [linux mitigation disable (security considerations - debian)](docs-and-code/linux-mitigation-disable-security-considerations-debian.md)
   * [specifying a static container IP on the same subnet of an UNRAID host](docs-and-code/specifying-a-static-container-ip-on-the-same-subnet-of-an-unraid-host.md)
   * [yt-dlp command to record in a different file each time](docs-and-code/yt-dlp-command-to-record-in-a-different-file-each-time.md)
+  * [add container to additional network on unRAID](docs-and-code/add-container-to-additional-network-on-unraid.md)
