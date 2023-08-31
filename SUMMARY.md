@@ -11,3 +11,4 @@
   * [yt-dlp command to record in a different file each time](docs-and-code/yt-dlp-command-to-record-in-a-different-file-each-time.md)
   * [add container to additional network on unRAID](docs-and-code/add-container-to-additional-network-on-unraid.md)
   * [create sudo user in ubuntu lxc container](docs-and-code/create-sudo-user-in-ubuntu-lxc-container.md)
+  * [Caching on nginx](docs-and-code/caching-on-nginx.md)
