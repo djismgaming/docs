@@ -4,7 +4,7 @@ description: For linuxserver/nginx
 
 # Caching on nginx
 
-Caching config (https://www.nginx.com/resources/wiki/start/topics/examples/reverseproxycachingexample/)
+Caching config ([https://www.nginx.com/resources/wiki/start/topics/examples/reverseproxycachingexample/](https://www.nginx.com/resources/wiki/start/topics/examples/reverseproxycachingexample/))
 
 This part goes into nginx.conf:
 
